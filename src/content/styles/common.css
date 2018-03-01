@@ -1,0 +1,16 @@
+body {
+  margin: 0px !important; 
+font-family: sans-serif;
+}
+
+.spacer {
+  flex: 1 1 auto; }
+  
+  mat-card {
+    width: calc(100% - 70px);
+    height: calc(100% - 70px);
+  }
+
+label {
+    display: block;
+}

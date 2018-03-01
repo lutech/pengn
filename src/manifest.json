@@ -1,0 +1,12 @@
+{
+    "name": "Rockhopper",
+    "short_name": "Rockhopper",
+    "theme_color": "#0097a7",
+    "background_color": "#0097a7",
+    "display": "standalone",
+    "orientation": "portrait",
+    "Scope": "/",
+    "start_url": "/",
+    "icons": [],
+    "splash_pages": null
+  }
